@@ -40,7 +40,7 @@ Shift node status, is it running or not?
 ```
 ./shift_manager.bash status
 ```
-Rebuild blockchain fron official snapshot
+Rebuild blockchain from official snapshot
 ```
 ./shift_manager.bash rebuild
 ```
